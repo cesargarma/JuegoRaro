@@ -1,5 +1,12 @@
 package dam;
 
+/**
+ * Juego de la bolbilla con dos estados
+ *
+ * @version 1.0
+ * @author Cesar
+ */
+
 import java.util.Scanner;
 
 public class JuegoBombillas {
